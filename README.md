@@ -1,1 +1,6 @@
-四足歩行ドローンを制御するためのaurduinoスケッチです。
+Arduino nanoと3dプリンタで作ったパーツで作った、四足歩行ドローンを制御するためのaurduinoスケッチです。
+
+model.zipは3dプリンタ用のモデルのデータです。blenderファイルを開くにはblenderをインストールしてください。
+
+その他必要なものは、Qitta記事(3DプリンターとblenderとArduinoでオリジナルの四足歩行ロボを作る)を参照
+また、Arduinoのライブラリservo.hが必要なので、ideにインストールしてください。
