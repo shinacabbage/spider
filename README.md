@@ -1,4 +1,4 @@
-Arduino nanoと3dプリンタで作ったパーツで作った、四足歩行ドローンを制御するためのaurduinoスケッチです。
+Arduino nanoと3dプリンタで作った、四足歩行ドローンを制御するためのaurduinoスケッチです。
 
 model.zipは3dプリンタ用のモデルのデータです。blenderファイルを開くにはblenderをインストールしてください。
 
